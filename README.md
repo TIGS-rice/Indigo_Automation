@@ -2,7 +2,6 @@
 Indigo is a webserver for analysing indel mutation in chroimatogram traces of sanger sequence files,which is developed by EMBL. 
 website : https://www.gear-genomics.com/indigo/
 
-# AutoINDIGO  
 Automated Sanger sequence INDEL analysis for CRISPR-edited rice plants using EMBL's INDIGO web application.
 
 ## Features  
