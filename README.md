@@ -7,4 +7,8 @@ Automated Sanger sequence INDEL analysis for CRISPR-edited rice plants using EMB
 ## Features  
 - Batch processes `.ab1` files.  
 - Auto-uploads wildtype and sample sequences to INDIGO.  
-- Downloads/Saves HTML results with PAM sequences highlighted. 
+- Downloads/Saves HTML results with PAM sequences highlighted.
+
+- #########################################################
+-  Developed by Vandana suresh
+  ########################################################
