@@ -11,4 +11,5 @@ Automated Sanger sequence INDEL analysis for CRISPR-edited rice plants using EMB
 
 
  Developed by Vandana suresh
+ https://github.com/VandanaSuresh
 
